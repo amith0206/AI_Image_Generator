@@ -5,6 +5,7 @@ This project consists of a Flutter frontend and a Flask backend for generating i
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
+- [Sample Images](#sample-images)
 - [Project Structure](#project-structure)
 - [Backend Setup](#backend-setup)
   - [Docker](#docker)
@@ -18,6 +19,12 @@ This project consists of a Flutter frontend and a Flask backend for generating i
 
 - Docker
 - Flutter SDK
+
+## Sample Images
+
+![Dog-1](https://github.com/amith0206/AI_Image_Generator/blob/main/asset/dog-1.png)
+![Dog-2](https://github.com/amith0206/AI_Image_Generator/blob/main/asset/dog-2.png)
+![Zeus](https://github.com/amith0206/AI_Image_Generator/blob/main/asset/zeus.png)
 
 ## Project Structure
 ai-image-generator/ <br>
