@@ -1,6 +1,6 @@
 # AI Image Generation Project
 
-This project consists of a Flutter frontend and a Flask backend for generating images based on user input using an AI model.
+This project consists of a Flutter frontend and a Flask backend for generating images based on user input using an AI model.The Flask application is hosted on AWS EC2 instance.
 
 ## Table of Contents
 
